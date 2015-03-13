@@ -1,0 +1,10 @@
+name: BuxGift
+main: us.frin.buxgift.BuxGift
+version: 1.0.1
+
+commands:
+  gift:
+    description: BuxGift Usage
+    usage: /gift
+    permission: buxgift.create
+    permission-message: You don't have permission to use Join Commands!
